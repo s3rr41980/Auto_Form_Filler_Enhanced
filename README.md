@@ -13,8 +13,7 @@ Built an **enhanced end-to-end pipeline** that **generates synthetic records**, 
 2) exposes them via a local **Flask** API and simple HTML table,  
 3) **validates** (NRIC / email / phone) and **cleans** the records,  
 4) **submits** cleaned fields to a **Google Form** using **Selenium WebDriver**, and  
-5) **persists** cleaned outputs to **PostgreSQL**.  
-It also measures total run time for performance insight.
+5) **persists** cleaned outputs to **PostgreSQL**. Also measures total run time for performance insight.
 
 🎯 **Goal:** Move beyond a two-field demo into a **repeatable, automated, and validated** web-form submission flow with realistic data.
 
