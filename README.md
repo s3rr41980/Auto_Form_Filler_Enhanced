@@ -1,6 +1,6 @@
 # 📝 Auto Form Filler (Enhanced)
 
-Week 2 Project for **Python 2 (Intermediate Module)**  
+Week 3 Project for **Python 2 (Intermediate Module)**  
 
 The original requirement was to **add two lines of information** into a Google Form using Selenium.  
 Built an **enhanced end-to-end pipeline** that **generates synthetic records**, serves them via a **local REST API**, **validates & cleans** the data, **submits full forms** with Selenium, and **optionally stores** cleaned results in **PostgreSQL**.
